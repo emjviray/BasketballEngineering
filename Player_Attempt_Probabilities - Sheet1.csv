@@ -1,0 +1,130 @@
+PLAYER_NAME,SHOT_ZONE_BASIC,zone_attempts,total_attempts,attempt_probability
+Aaron Gordon,Above the Break 3,4,49,0.08163265306
+Aaron Gordon,In The Paint (Non-RA),4,49,0.08163265306
+Aaron Gordon,Left Corner 3,3,49,0.0612244898
+Aaron Gordon,Mid-Range,3,49,0.0612244898
+Aaron Gordon,Restricted Area,33,49,0.6734693878
+Aaron Gordon,Right Corner 3,2,49,0.04081632653
+Andrew Wiggins,Above the Break 3,159,597,0.2663316583
+Andrew Wiggins,In The Paint (Non-RA),153,597,0.256281407
+Andrew Wiggins,Left Corner 3,30,597,0.05025125628
+Andrew Wiggins,Mid-Range,92,597,0.1541038526
+Andrew Wiggins,Restricted Area,142,597,0.2378559464
+Andrew Wiggins,Right Corner 3,21,597,0.0351758794
+Bam Adebayo,Above the Break 3,24,975,0.02461538462
+Bam Adebayo,Backcourt,2,975,0.002051282051
+Bam Adebayo,In The Paint (Non-RA),409,975,0.4194871795
+Bam Adebayo,Left Corner 3,9,975,0.009230769231
+Bam Adebayo,Mid-Range,160,975,0.1641025641
+Bam Adebayo,Restricted Area,369,975,0.3784615385
+Bam Adebayo,Right Corner 3,2,975,0.002051282051
+Danny Green,Above the Break 3,35,90,0.3888888889
+Danny Green,In The Paint (Non-RA),7,90,0.07777777778
+Danny Green,Left Corner 3,14,90,0.1555555556
+Danny Green,Mid-Range,5,90,0.05555555556
+Danny Green,Restricted Area,8,90,0.08888888889
+Danny Green,Right Corner 3,21,90,0.2333333333
+Derrick White,Above the Break 3,50,109,0.4587155963
+Derrick White,In The Paint (Non-RA),18,109,0.1651376147
+Derrick White,Left Corner 3,8,109,0.07339449541
+Derrick White,Mid-Range,12,109,0.1100917431
+Derrick White,Restricted Area,11,109,0.1009174312
+Derrick White,Right Corner 3,10,109,0.09174311927
+Devin Booker,Above the Break 3,37,143,0.2587412587
+Devin Booker,Backcourt,3,143,0.02097902098
+Devin Booker,In The Paint (Non-RA),31,143,0.2167832168
+Devin Booker,Mid-Range,52,143,0.3636363636
+Devin Booker,Restricted Area,19,143,0.1328671329
+Devin Booker,Right Corner 3,1,143,0.006993006993
+Draymond Green,Above the Break 3,52,186,0.2795698925
+Draymond Green,Backcourt,1,186,0.005376344086
+Draymond Green,In The Paint (Non-RA),32,186,0.1720430108
+Draymond Green,Left Corner 3,13,186,0.06989247312
+Draymond Green,Mid-Range,11,186,0.05913978495
+Draymond Green,Restricted Area,69,186,0.3709677419
+Draymond Green,Right Corner 3,8,186,0.04301075269
+Giannis Antetokounmpo,Above the Break 3,15,123,0.1219512195
+Giannis Antetokounmpo,In The Paint (Non-RA),25,123,0.2032520325
+Giannis Antetokounmpo,Mid-Range,20,123,0.162601626
+Giannis Antetokounmpo,Restricted Area,63,123,0.512195122
+Grant Williams,Above the Break 3,24,70,0.3428571429
+Grant Williams,Backcourt,1,70,0.01428571429
+Grant Williams,In The Paint (Non-RA),6,70,0.08571428571
+Grant Williams,Left Corner 3,15,70,0.2142857143
+Grant Williams,Mid-Range,2,70,0.02857142857
+Grant Williams,Restricted Area,12,70,0.1714285714
+Grant Williams,Right Corner 3,10,70,0.1428571429
+Jamal Murray,Above the Break 3,479,1529,0.3132766514
+Jamal Murray,Backcourt,8,1529,0.005232177894
+Jamal Murray,In The Paint (Non-RA),304,1529,0.19882276
+Jamal Murray,Left Corner 3,31,1529,0.02027468934
+Jamal Murray,Mid-Range,361,1529,0.2361020275
+Jamal Murray,Restricted Area,326,1529,0.2132112492
+Jamal Murray,Right Corner 3,20,1529,0.01308044474
+Jayson Tatum,Above the Break 3,756,2241,0.3373493976
+Jayson Tatum,Backcourt,1,2241,0.0004462293619
+Jayson Tatum,In The Paint (Non-RA),392,2241,0.1749219099
+Jayson Tatum,Left Corner 3,51,2241,0.02275769746
+Jayson Tatum,Mid-Range,379,2241,0.1691209282
+Jayson Tatum,Restricted Area,630,2241,0.281124498
+Jayson Tatum,Right Corner 3,32,2241,0.01427933958
+Jimmy Butler III,Above the Break 3,216,1627,0.1327596804
+Jimmy Butler III,Backcourt,5,1627,0.00307314075
+Jimmy Butler III,In The Paint (Non-RA),395,1627,0.2427781192
+Jimmy Butler III,Left Corner 3,40,1627,0.024585126
+Jimmy Butler III,Mid-Range,377,1627,0.2317148125
+Jimmy Butler III,Restricted Area,531,1627,0.3263675476
+Jimmy Butler III,Right Corner 3,63,1627,0.03872157345
+Jrue Holiday,Above the Break 3,340,1132,0.3003533569
+Jrue Holiday,Backcourt,7,1132,0.006183745583
+Jrue Holiday,In The Paint (Non-RA),231,1132,0.2040636042
+Jrue Holiday,Left Corner 3,53,1132,0.04681978799
+Jrue Holiday,Mid-Range,167,1132,0.1475265018
+Jrue Holiday,Restricted Area,308,1132,0.2720848057
+Jrue Holiday,Right Corner 3,26,1132,0.02296819788
+Kentavious Caldwell-Pope,Above the Break 3,178,496,0.3588709677
+Kentavious Caldwell-Pope,In The Paint (Non-RA),35,496,0.07056451613
+Kentavious Caldwell-Pope,Left Corner 3,58,496,0.1169354839
+Kentavious Caldwell-Pope,Mid-Range,70,496,0.1411290323
+Kentavious Caldwell-Pope,Restricted Area,83,496,0.1673387097
+Kentavious Caldwell-Pope,Right Corner 3,72,496,0.1451612903
+Kevin Durant,Above the Break 3,423,1602,0.2640449438
+Kevin Durant,Backcourt,2,1602,0.001248439451
+Kevin Durant,In The Paint (Non-RA),283,1602,0.1766541823
+Kevin Durant,Left Corner 3,19,1602,0.01186017478
+Kevin Durant,Mid-Range,594,1602,0.3707865169
+Kevin Durant,Restricted Area,255,1602,0.15917603
+Kevin Durant,Right Corner 3,26,1602,0.01622971286
+Klay Thompson,Above the Break 3,585,1525,0.3836065574
+Klay Thompson,Backcourt,2,1525,0.00131147541
+Klay Thompson,In The Paint (Non-RA),180,1525,0.1180327869
+Klay Thompson,Left Corner 3,68,1525,0.04459016393
+Klay Thompson,Mid-Range,420,1525,0.2754098361
+Klay Thompson,Restricted Area,171,1525,0.1121311475
+Klay Thompson,Right Corner 3,99,1525,0.06491803279
+LeBron James,Above the Break 3,77,326,0.236196319
+LeBron James,In The Paint (Non-RA),45,326,0.1380368098
+LeBron James,Left Corner 3,3,326,0.009202453988
+LeBron James,Mid-Range,40,326,0.1226993865
+LeBron James,Restricted Area,156,326,0.4785276074
+LeBron James,Right Corner 3,5,326,0.01533742331
+Nikola Jokić,Above the Break 3,395,1864,0.2119098712
+Nikola Jokić,Backcourt,13,1864,0.006974248927
+Nikola Jokić,In The Paint (Non-RA),660,1864,0.3540772532
+Nikola Jokić,Left Corner 3,8,1864,0.004291845494
+Nikola Jokić,Mid-Range,288,1864,0.1545064378
+Nikola Jokić,Restricted Area,491,1864,0.2634120172
+Nikola Jokić,Right Corner 3,9,1864,0.00482832618
+P.J. Tucker,Above the Break 3,53,597,0.08877721943
+P.J. Tucker,In The Paint (Non-RA),62,597,0.1038525963
+P.J. Tucker,Left Corner 3,166,597,0.2780569514
+P.J. Tucker,Mid-Range,26,597,0.04355108878
+P.J. Tucker,Restricted Area,129,597,0.216080402
+P.J. Tucker,Right Corner 3,161,597,0.269681742
+Stephen Curry,Above the Break 3,900,1927,0.4670472237
+Stephen Curry,Backcourt,20,1927,0.01037882719
+Stephen Curry,In The Paint (Non-RA),287,1927,0.1489361702
+Stephen Curry,Left Corner 3,67,1927,0.03476907109
+Stephen Curry,Mid-Range,292,1927,0.151530877
+Stephen Curry,Restricted Area,306,1927,0.158796056
+Stephen Curry,Right Corner 3,55,1927,0.02854177478
